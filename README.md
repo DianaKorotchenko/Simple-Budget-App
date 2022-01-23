@@ -1,5 +1,5 @@
 ## This is my page for homework№4
-Kindly find some a description about attached files:
+Kindly find some a description about attached file:
 1. The main file index.html which shows the page. [press here to view](https://dianakorotchenko.github.io/Simple-Budget-App/)
 
 ---
