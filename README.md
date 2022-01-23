@@ -5,4 +5,4 @@ Kindly find some a description about attached files:
 ---
 I have used knowledge of Bootstrap - the most popular CSS Framework for developing responsive and mobile-first websites to create this page. 
 Firstly I have devided all page on blocks and have applied flex utility and grid layout to make a responsive page.
-Kindly find a preview below: ![Oops! It should be a picture](preview.jpg) 
+Kindly find a preview below: ![Oops! It should be a picture](preview.png) 
